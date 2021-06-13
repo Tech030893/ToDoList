@@ -30,3 +30,5 @@ This application consists of adding reminder(s) or daily work routine as a list 
 [![To-Do-List-Action-Sheet.png](https://i.postimg.cc/tJZwscQ3/To-Do-List-Action-Sheet.png)](https://postimg.cc/gLpN5N0j)
 
 [![To-Do-List-Update-Item.png](https://i.postimg.cc/44YxvNX5/To-Do-List-Update-Item.png)](https://postimg.cc/ThXxfxLL)
+
+[![To-Do-List-Updated.png](https://i.postimg.cc/hPxydx6q/To-Do-List-Updated.png)](https://postimg.cc/RNSLr3vP)
