@@ -3,7 +3,7 @@
 This application consists of adding reminder(s) or daily work routine as a list with the use of core data.
 
 ## Programming language used
-- Swift
+- Swift 5
 
 ## Deployment Info
 - iOS 14.5
